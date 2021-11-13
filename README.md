@@ -4,7 +4,7 @@
 UPSNet is initially described in a [CVPR 2019 oral](https://arxiv.org/abs/1901.03784) paper.
 
 
-
+Demo
 
 # Disclaimer
 
